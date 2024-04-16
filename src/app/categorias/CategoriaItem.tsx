@@ -2,7 +2,7 @@
 
 import DropdownAction from "@/components/DropdownAction";
 import { Icon } from "@/components/Icon";
-import { destroy } from "../actions/destroy";
+import { destroy } from "@/app/actions/create";
 import toast from "react-hot-toast";
 
 interface CategoriaItemProps {
