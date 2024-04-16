@@ -1,6 +1,6 @@
 "use client"
 
-import { create } from "@/app/actions/categorias/create";
+import { create } from "@/app/actions/create";
 import { icons } from "@/app/utils/icons";
 import NavBar from "@/components/NavBar";
 import { SubmitButton } from "@/components/SubmitButton";
